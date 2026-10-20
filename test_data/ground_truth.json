@@ -1,0 +1,110 @@
+{
+  "0793573348678.xlsx": [
+    {
+      "type": "servings_mismatch",
+      "description": "servings_per_container x serving_size does not match net_weight_g"
+    },
+    {
+      "type": "sugar_gt_carbs",
+      "description": "total_sugars_g greater than total_carb_g"
+    },
+    {
+      "type": "may_contain_listed",
+      "description": "allergen listed as 'may contain' but present in ingredients"
+    }
+  ],
+  "0096619194261.xlsx": [
+    {
+      "type": "calories_mismatch",
+      "description": "calories do not match fat/carb/protein (9/4/4)"
+    }
+  ],
+  "0058449770565.xlsx": [
+    {
+      "type": "servings_mismatch",
+      "description": "servings_per_container x serving_size does not match net_weight_g"
+    },
+    {
+      "type": "may_contain_listed",
+      "description": "allergen listed as 'may contain' but present in ingredients"
+    },
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    }
+  ],
+  "0819562022791.xlsx": [
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    },
+    {
+      "type": "sugar_gt_carbs",
+      "description": "total_sugars_g greater than total_carb_g"
+    },
+    {
+      "type": "trans_gt_sat",
+      "description": "trans fat greater than saturated fat"
+    }
+  ],
+  "0855140002175.xlsx": [
+    {
+      "type": "sugar_gt_carbs",
+      "description": "total_sugars_g greater than total_carb_g"
+    }
+  ],
+  "4056489255499.xlsx": [
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    }
+  ],
+  "0030000436073.xlsx": [
+    {
+      "type": "no_added_sugar_honey",
+      "description": "'No Added Sugar' claim but ingredients contain honey and coconut sugar"
+    },
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    }
+  ],
+  "0810589032312.xlsx": [
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    }
+  ],
+  "0039978501035.xlsx": [
+    {
+      "type": "calories_mismatch",
+      "description": "calories do not match fat/carb/protein (9/4/4)"
+    },
+    {
+      "type": "servings_mismatch",
+      "description": "servings_per_container x serving_size does not match net_weight_g"
+    }
+  ],
+  "0884912126115.xlsx": [
+    {
+      "type": "servings_mismatch",
+      "description": "servings_per_container x serving_size does not match net_weight_g"
+    }
+  ],
+  "0856088003736.xlsx": [
+    {
+      "type": "may_contain_listed",
+      "description": "allergen listed as 'may contain' but present in ingredients"
+    }
+  ],
+  "0810589030295.xlsx": [
+    {
+      "type": "no_added_sugar_honey",
+      "description": "'No Added Sugar' claim but ingredients contain honey and coconut sugar"
+    },
+    {
+      "type": "duplicate_ingredient",
+      "description": "ingredient listed twice"
+    }
+  ]
+}
